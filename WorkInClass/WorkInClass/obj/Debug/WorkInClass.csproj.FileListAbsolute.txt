@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\WorkInClass\WorkInClass\bin\Debug\WorkInClass.exe.config
+C:\Users\HP\source\repos\WorkInClass\WorkInClass\bin\Debug\WorkInClass.exe
+C:\Users\HP\source\repos\WorkInClass\WorkInClass\bin\Debug\WorkInClass.pdb
+C:\Users\HP\source\repos\WorkInClass\WorkInClass\obj\Debug\WorkInClass.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\WorkInClass\WorkInClass\obj\Debug\WorkInClass.exe
+C:\Users\HP\source\repos\WorkInClass\WorkInClass\obj\Debug\WorkInClass.pdb
